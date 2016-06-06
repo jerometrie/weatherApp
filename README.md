@@ -4,4 +4,4 @@ This is a Free Code Camp project.
 
 Made with:
 
-HTML, CSS, ES2015, JSON, Gulp, Bootstrap, Erik Flowers icons, Google Maps, and OpenWeatherMap API.
+HTML, CSS, ES2015, Babel, JSON, Gulp, Bootstrap, Erik Flowers icons, Google Maps, and OpenWeatherMap API.
